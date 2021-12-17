@@ -4,8 +4,8 @@
 - ✨My favorite languages are Java, C#, and Dart
 - 📫 Contact me either via email (*lucadenhez@icloud.com*) or via Discord (*lucaa#4892*)
 
-View my personal portfolio at (lucadenhez.com)[https://lucadenhez.com]
-Or take a look at Evergreen 🌲 token, ($PNW) via (lucadenhez.com/evergreen)[https://lucadenhez.com/evergreen]
+View my personal portfolio at [lucadenhez.com](https://lucadenhez.com)
+Or take a look at **Evergreen 🌲** token, ($PNW) via [lucadenhez.com/evergreen](https://lucadenhez.com/evergreen)
 
 Cheers!
 
