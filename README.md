@@ -6,7 +6,7 @@
 📫 - Contact me either via email (*lucadenhez@icloud.com*) or via Discord (*lucaa#4892*)
 
 View my personal portfolio at [lucadenhez.com](https://lucadenhez.com)\
-Or take a look at **Froggos Terra Firma🐸**, (**$FROGGOSTF**) which aims to provide a new perspective on NFT creation. [lucadenhez.com/froggostf](https://lucadenhez.com/froggostf)
+Or take a look at **Froggos Terra Firma 🐸**, which aims to provide a new perspective on NFT creation. [lucadenhez.com/froggostf](https://lucadenhez.com/froggostf)
 
 Cheers!
 
