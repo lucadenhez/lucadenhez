@@ -1,4 +1,4 @@
-### Hi, I'm Luca ✌️
+### Hi, I'm Luca ✌️🇫🇷🥖
 
 🦊 - I’m currently working on UI/UX design, and responsive website developnment\
 🥒 - I’m currently learning React.js, Locomotive Scroll, and Hex Development\
