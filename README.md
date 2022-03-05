@@ -8,6 +8,6 @@
 View my personal portfolio at [lucadenhez.com](https://lucadenhez.com)\
 Or take a look at **Froggos Terra Firma 🐸**, which aims to provide a new perspective on NFT creation. [lucadenhez.com/froggostf](https://lucadenhez.com/froggostf)
 
-Cheers! 🇫🇷🇺🇸
+Cheers! 🇫🇷
 
 <!--**lucadenhez/lucadenhez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
