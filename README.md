@@ -2,7 +2,7 @@
 
 🦊 - I’m currently working on Flutter app development, and responsive website development\
 🥒 - I’m currently learning Flutter and Nuxt.js\
-✨ - My favorite languages so far are Python, Java, C#, and Dart?..\
+✨ - My favorite languages so far are Java, Python, C#, and Dart?..\
 📫 - If possible, please contact me via Discord (*lucaa#4892*)
 
 View my personal portfolio at [lucadenhez.com](https://lucadenhez.com)\
