@@ -1,12 +1,12 @@
 ### Hi, I'm Luca ✌
 
-🦊 - I’m currently working on Flutter app development, and responsive website development\
-🥒 - I’m currently learning Flutter and Nuxt.js\
-✨ - My favorite languages so far are Java, Python, C#, and Dart?..\
-📫 - If possible, please contact me via Discord (*lucaa#4892*)
+A 17yr old student who likes to code and tinker around!\
+I love playing with microcontrollers and hacking together solutions.\
+I’m currently learning responsive website UI development with Next.JS\
 
-View my personal portfolio at [lucadenhez.com](https://lucadenhez.com)\
-Or take a look at **Froggos Terra Firma 🐸**, which aims to provide a new perspective on NFT creation. [lucadenhez.com/froggostf](https://lucadenhez.com/froggostf)
+If you'd like to contact me, shoot me an email at [lucadenhez@icloud.com](mailto:lucadenhez@icloud.com).
+
+View my personal coding and design portfolio at [lucadenhez.com](https://lucadenhez.com) (WIP)
 
 Cheers! 🇫🇷
 
