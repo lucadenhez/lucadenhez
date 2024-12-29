@@ -1,6 +1,6 @@
-### Hi, I'm Luca. ✌
+### Hi, I'm Luca!
 
-I'm an 18yr old student who likes to code and tinker around. I am currently attending Oregon State University for Computer Science! 🟠⚫️
+I'm an 18-year-old student who likes to code and tinker around. I am currently attending Oregon State University for Computer Science. 🟠⚫️
 
 • I love playing with microcontrollers and hacking together solutions\
 • I’m currently learning responsive website UI development with Next.JS\
