@@ -1,9 +1,9 @@
 ### Hi, I'm Luca!
 
-I'm an 18-year-old student who likes to code and tinker around. I am currently attending Oregon State University for Computer Science. 🟠⚫️
+I'm an 18-year-old student who likes to code and tinker around. I am currently attending Seattle University for Computer Science. ❤️🖤
 
-• I love playing with microcontrollers and hacking together solutions\
-• I’m currently learning responsive website UI development with Next.JS\
+• I love building fun web experiences with React\
+• I’m currently learning the ropes of good, responsive UI & UX design\
 \
 If you'd like to contact me, shoot me an email at [lucadenhez@icloud.com](mailto:lucadenhez@icloud.com).\
 View my personal coding and design portfolio at [lucadenhez.com](https://lucadenhez.com) (WIP)
